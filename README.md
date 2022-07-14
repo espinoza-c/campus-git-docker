@@ -26,4 +26,4 @@ Hacemos commit la cantidad de veces que sea necesario:
 $ git commit -m "Nombre del commit."
 
 Hacemos push:
-$ git push origin master
+$ git push origin main
